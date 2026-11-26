@@ -38,5 +38,5 @@ An end-to-end data analytics project analysing **1,561 Data Analyst job listings
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/india-data-analyst-job-market-analysis.git
 
-   ## Author
+## Author
 **Rumul Hussain Mazumdar**
