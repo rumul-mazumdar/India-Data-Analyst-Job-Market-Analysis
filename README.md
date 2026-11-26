@@ -17,13 +17,13 @@ An end-to-end data analytics project analysing **1,561 Data Analyst job listings
 ## Power BI Dashboard
 
 ### 1. Job Market Overview
-![Job Market Overview](images/job_market_overview.png)
+![Job Market Overview](Job%20Market%20Overview.png)
 
 ### 2. Advanced Analysis & Filters
-![Advanced Analysis and Filters](images/advanced_analysis_filters.png)
+![Advanced Analysis and Filters](Advanced%20Analysis%20%26%20Filters.png)
 
 ### 3. Insights & Summary
-![Insights and Summary](images/insights_summary.png)
+![Insights and Summary](Insights%20%26%20Summary.png)
 
 ## Project Structure
 * `data/` — Raw dataset (`data_analyst_jobs_india.csv`)
