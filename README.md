@@ -32,7 +32,11 @@ An end-to-end data analytics project analysing **1,561 Data Analyst job listings
 * `powerbi/` — Interactive Power BI dashboard file (`.pbix`)
 * `images/` — Dashboard screenshots
 * `docs/` — Project problem statement
-git clone [https://github.com/rumul-mazumdar/India-Data-Analyst-Job-Market-Analysis.git](https://github.com/rumul-mazumdar/India-Data-Analyst-Job-Market-Analysis.git)
+
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/rumul-mazumdar/India-Data-Analyst-Job-Market-Analysis.git](https://github.com/rumul-mazumdar/India-Data-Analyst-Job-Market-Analysis.git)
 
 ## Author
 **Rumul Hussain Mazumdar**
